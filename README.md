@@ -1,1 +1,3 @@
 # Covid_19_analysis
+
+In this project, you can explore and analyze the publicly available COVID-19 pandemic data to gain insights into the trends, patterns, and factors that have contributed to the spread of the virus. You can use a variety of data sources, such as the World Health Organization (WHO) dataset, John Hopkins University (JHU) dataset, or the COVID-19 Open Research Dataset (CORD-19), and use Python or R to perform data cleaning, visualization, and analysis.
